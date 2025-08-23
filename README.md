@@ -25,11 +25,17 @@ Cybersecurity Master's Student | SOC Analyst | GRC consultant | Aspiring Securit
 
 ## $ tree PROJECTS/  
 📂 **Featured Repositories**  
-├── [SOC-Lab](#) → Splunk alerts, KQL queries, incident response playbooks  
-├── [Python-Network-Scanner](#) → Custom scanner for asset discovery  
-├── [GRC-Framework-Mapping](#) → ISO 27001 ↔ NIST CSF ↔ CIS Controls  
-├── [DNS-Flood-Lab](#) → Dockerized DNS attack simulation  
-└── [BufferOverflow-Lab](#) → Exploiting vulnerable C programs for root shell  
+├── [SOC-Log-Hunting](#) → Splunk log hunting with MITRE ATT&CK alignment  
+├── [Threat-Detection-Snort-Wireshark](#) → IDS rules & packet captures for attack analysis  
+├── [Azure-Sentinel-Threat-Monitoring](#) → Cloud log ingestion, KQL queries & dashboards  
+├── [Zero-Trust-Architect-Microsegmentation](#) → Firewall microsegmentation & MFA integration  
+├── [OWASP-Top10-Attack-Defense](#) → Web app exploitation & defense (DVWA / Juice Shop)  
+├── [Automated-VulnMgmt-Nessus-Python](#) → Nessus scanning automated with Python scripts  
+├── [DFIR-Playbook](#) → End-to-end digital forensics & incident response workflows  
+├── [Policy-Drafting-AI-Workplace](#) → Governance framework for AI adoption in enterprises  
+├── [Control-Mapping-PCI-NIST-ISO](#) → PCI-DSS ↔ NIST CSF ↔ ISO 27001 crosswalk matrix  
+├── [Phishing-Sim-User-Training](#) → Phishing simulation templates & awareness program design  
+└── [Biometric-Lock-Prototype](#) → Multi-factor biometric lock for enterprise laptops 
  
 ---
 
