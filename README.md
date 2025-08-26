@@ -35,7 +35,7 @@ Cybersecurity Master's Student | SOC Analyst | GRC consultant | Aspiring Securit
 ├── [Policy-Drafting-AI-Workplace](#) → Governance framework for AI adoption in enterprises  
 ├── [Control-Mapping-PCI-NIST-ISO](#) → PCI-DSS ↔ NIST CSF ↔ ISO 27001 crosswalk matrix  
 ├── [Phishing-Sim-User-Training](#) → Phishing simulation templates & awareness program design  
-└── [Biometric-Lock-Prototype]([https://github.com/whoami-mihir/Biometric-Lock-Prototype]) → Multi-factor biometric lock for enterprise laptops 
+└── [Biometric-Lock-Prototype](https://github.com/whoami-mihir/Biometric-Lock-Prototype) → Multi-factor biometric lock for enterprise laptops 
  
 ---
 
