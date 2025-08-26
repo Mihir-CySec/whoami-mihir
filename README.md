@@ -25,16 +25,16 @@ Cybersecurity Master's Student | SOC Analyst | GRC consultant | Aspiring Securit
 
 ## $ tree PROJECTS/  
 📂 **Featured Repositories**  
-├── [SOC-Log-Hunting](#) → Splunk log hunting with MITRE ATT&CK alignment  
-├── [Threat-Detection-Snort-Wireshark](#) → IDS rules & packet captures for attack analysis  
-├── [Azure-Sentinel-Threat-Monitoring](#) → Cloud log ingestion, KQL queries & dashboards  
-├── [Zero-Trust-Architect-Microsegmentation](#) → Firewall microsegmentation & MFA integration  
-├── [OWASP-Top10-Attack-Defense](#) → Web app exploitation & defense (DVWA / Juice Shop)  
-├── [Automated-VulnMgmt-Nessus-Python](#) → Nessus scanning automated with Python scripts  
-├── [DFIR-Playbook](#) → End-to-end digital forensics & incident response workflows  
-├── [Policy-Drafting-AI-Workplace](#) → Governance framework for AI adoption in enterprises  
-├── [Control-Mapping-PCI-NIST-ISO](#) → PCI-DSS ↔ NIST CSF ↔ ISO 27001 crosswalk matrix  
-├── [Phishing-Sim-User-Training](#) → Phishing simulation templates & awareness program design  
+├── [SOC-Log-Hunting](https://github.com/whoami-mihir/SOC-Log-Hunting) → Splunk log hunting with MITRE ATT&CK alignment  
+├── [Threat-Detection-Snort-Wireshark](https://github.com/whoami-mihir/Threat-Detection-Snort-Wireshark) → IDS rules & packet captures for attack analysis  
+├── [Azure-Sentinel-Threat-Monitoring](https://github.com/whoami-mihir/Azure-Sentinel-Threat-Monitoring) → Cloud log ingestion, KQL queries & dashboards  
+├── [Zero-Trust-Architect-Microsegmentation](https://github.com/whoami-mihir/Zero-Trust-Architecture-Microsegmentation) → Firewall microsegmentation & MFA integration  
+├── [OWASP-Top10-Attack-Defense](https://github.com/whoami-mihir/OWASP-Top10-Attack-Defense) → Web app exploitation & defense (DVWA / Juice Shop)  
+├── [Automated-VulnMgmt-Nessus-Python](https://github.com/whoami-mihir/Automated-VulnMgmt-Nessus-Python) → Nessus scanning automated with Python scripts  
+├── [DFIR-Playbook](https://github.com/whoami-mihir/DFIR-Playbook) → End-to-end digital forensics & incident response workflows  
+├── [Policy-Drafting-AI-Workplace](https://github.com/whoami-mihir/Policy-AI-In-Workplace) → Governance framework for AI adoption in enterprises  
+├── [Control-Mapping-PCI-NIST-ISO](https://github.com/whoami-mihir/Control-Mapping-PCI-NIST-ISO) → PCI-DSS ↔ NIST CSF ↔ ISO 27001 crosswalk matrix  
+├── [Phishing-Sim-User-Training](https://github.com/whoami-mihir/Phishing-Sim-User-Training) → Phishing simulation templates & awareness program design  
 └── [Biometric-Lock-Prototype](https://github.com/whoami-mihir/Biometric-Lock-Prototype) → Multi-factor biometric lock for enterprise laptops 
  
 ---
