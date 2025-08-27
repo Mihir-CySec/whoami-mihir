@@ -42,10 +42,10 @@ Cybersecurity Master's Student | SOC Analyst | GRC consultant | Aspiring Securit
 ## $ netstat -tan | grep -i establish` <- (Show established network connections)  
 - 🔗 LinkedIn: https://www.linkedin.com/in/whoami-mihir
 - 📧 Email: trivedi.mih@northeastern.edu  
-- 🌐 WEBSITE: 
+- 🌐 WEBSITE: https://whoami-mihir.github.io/
 
 ---
 
 ```bash
 # Motto
-Security is not a checkbox, it's a continuous process 🛡️
+Mitigating risk, Enabling progress. 🛡️
