@@ -40,12 +40,12 @@ Cybersecurity Master's Student | SOC Analyst | GRC consultant | Aspiring Securit
 ---
 
 ## $ netstat -tan | grep -i establish` <- (Show established network connections)  
-- 🔗 LinkedIn: https://www.linkedin.com/in/whoami-mihir
+- 🔗 LinkedIn: https://www.linkedin.com/in/Mihir-CySec
 - 📧 Email: trivedi.mih@northeastern.edu  
-- 🌐 WEBSITE: https://whoami-mihir.github.io/
+- 🌐 WEBSITE: https://Mihir-CySec.github.io/
 
 ---
 
 ```bash
 # Motto
-Mitigating risk, Enabling progress. 🛡️
+Breaking Threats, Building Trust. 🛡️
